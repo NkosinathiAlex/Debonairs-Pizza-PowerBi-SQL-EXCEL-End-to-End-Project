@@ -69,8 +69,6 @@ from shop
 group by pizza_name
 order by Total_Quantity ASC
 
-select distinct pizza_name
-from shop
 
 
 --Peak Order time
