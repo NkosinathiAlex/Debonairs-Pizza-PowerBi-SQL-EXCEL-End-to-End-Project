@@ -22,10 +22,9 @@
 <p1>
   The <b>Busiest</b> Day for Debonaires where most people place orders it's Friday
   between 12:00 and 19:00. From March our business starts picking up and we start to see more People Placing orders and Our Revenue Increasing.
-  When it come to Pizza Category the Classic one Brings more Revenue to our Business and the Veggie one Bring the less Category.
+  When it comes to Pizza Category the Classic one Brings more Revenue to our Business and the Veggie one Bring the less Revenue.
   People like to order the Large Pizza size while the less liked Pizza Size is the XX-Large. The most sold Pizzas is the classic deluxe Pizza
-  In each order we average 38.5 with an average of 2 Pizzas Per Order.
-  
+  In each order we average 38.5 rands with an average of 2 Pizzas Per Order.
 </p1>
 
 
