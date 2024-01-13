@@ -7,16 +7,16 @@
 
 <h3>We want the following metrics </h3>
 
-<li>
-  <ol>Total Revenue: The total revenue accumulated </ol>
-  <ol>Total Pizzas Sold: The sum of all the total Pizzas Sold</ol>
-  <ol>Total Orders: The total of orders placed</ol>
-  <ol>Average Order Value: The average amount spend per orders</ol>
-  <ol>Average Pizzas Per Order: The average number of pizzas sold per order</ol>
-  <ol>Daily Trend for Total Orders</ol>
-  <ol>Monthly Trend for Total orders</ol>
-  <ol>Peak Hours of orders</ol>
-</li>
+<ul>
+  <li>Total Revenue: The total revenue accumulated </li>
+  <li>Total Pizzas Sold: The sum of all the total Pizzas Sold</li>
+  <li>Total Orders: The total of orders placed</li>
+  <li>Average Order Value: The average amount spend per orders</li>
+  <li>Average Pizzas Per Order: The average number of pizzas sold per order</li>
+  <li>Daily Trend for Total Orders</li>
+  <li>Monthly Trend for Total orders</li>
+  <li>Peak Hours of orders</li>
+</ul>
 
 <h1>Conclusion</h1>
 <p1>
